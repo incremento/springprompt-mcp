@@ -1,0 +1,11 @@
+{
+  "name": "springprompt",
+  "description": "Test a prompt on realistic inputs across several models, see which model passes most often and what it costs, and improve the prompt from its failures.",
+  "version": "1.0.0",
+  "author": {"name": "Incremento Ltd", "email": "hello@springprompt.com"},
+  "homepage": "https://springprompt.com/agents",
+  "repository": "https://github.com/incremento/springprompt-mcp",
+  "license": "MIT",
+  "keywords": ["prompts", "llm", "evaluation", "models", "testing"],
+  "logo": "assets/logo.png"
+}

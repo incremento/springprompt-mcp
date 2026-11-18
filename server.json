@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.springprompt/prompt-test",
+  "title": "Spring Prompt",
+  "description": "The best prompt and the best model for the job, tested and improved by your coding agent.",
+  "version": "1.0.1",
+  "websiteUrl": "https://springprompt.com/agents",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://springprompt.com/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://springprompt.com/static/brand/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ]
+}
